@@ -1,4 +1,10 @@
-text = input().split()  # создал список из входящей строки
+# A code that receives a line of text in English as input and encrypts all words.
+# Each word of the string is encrypted using the Caesar cipher (cyclic shift by the length of this word).
+# Lowercase letters remain lowercase, while uppercase letters remain uppercase.
+# Characters that are not English letters do not change.
+
+
+text = input('Enter the text: ').split()  # создал список из входящей строки
 spisok_dlin = list()  # список с длинами слов
 new_text = list()  # пустой список, для добавления в него зашифрованых символов
 text1 = list()
