@@ -1,3 +1,15 @@
+#Project description: the program generates a set number of passwords and includes a smart setting for the length of the password, as well as which characters need to be included in it and which ones to exclude.
+#
+#Components of the project:
+#
+#Integers (int type);
+#Variables;
+#Data input/output (input() and print() functions);
+#Conditional operator (if/elif/else);
+#For loop;
+#Writing custom functions;
+#Working with the random module to generate random numbers.
+
 import random
 
 digits = '0123456789'
