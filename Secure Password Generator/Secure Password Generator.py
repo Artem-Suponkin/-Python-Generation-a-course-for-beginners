@@ -1,4 +1,5 @@
-#Project description: the program generates a set number of passwords and includes a smart setting for the length of the password, as well as which characters need to be included in it and which ones to exclude.
+#Project description: the program generates a set number of passwords and includes a smart setting for the length of the password, 
+#as well as which characters need to be included in it and which ones to exclude.
 #
 #Components of the project:
 #
